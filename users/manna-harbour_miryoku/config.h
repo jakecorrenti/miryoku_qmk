@@ -11,6 +11,8 @@
 #undef TAPPING_TERM
 #define TAPPING_TERM 200
 
+#define PERMISSIVE_HOLD
+
 // Prevent normal rollover on alphas from accidentally triggering mods.
 #define IGNORE_MOD_TAP_INTERRUPT
 
